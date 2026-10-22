@@ -8,7 +8,7 @@
 
 **Peer review scaffolding prompts: KEEP, iterate.** After the reminder started carrying four prompts (clarity, blind spots, distractions, resources), new reviewers appeared and comment volume rose. The open question is what the next iteration looks like, because the session itself reframed what comments are for (see the reflection-prompts observation below).
 
-**Accountability nudges: KEEP, iterate.** Submissions and attendance rose the week the nudges started, and several founders said in the session that the reminders helped. In Slack, one founder said they liked the reminder's header but skipped the rest, and that the meeting summary was the most useful part. The nudges work as a trigger that something is due, not as content people read. Keep them short.
+**Accountability nudges: KEEP, iterate.** Submissions and attendance rose the week the nudges started, and several participants said in the session that the reminders helped. In Slack, one founder said they liked the reminder's header but skipped the rest, and that the meeting summary was the most useful part. The nudges work as a trigger that something is due, not as content people read. Keep them short.
 
 **AI-assisted peer review: EVOLVED.** The original idea was AI that explains unfamiliar domains to reviewers. In the session, a founder reframed what a comment is for: a reviewer's question is there to help you think, not a task you owe an answer to. So the AI should generate probing questions, not explanations.
 
@@ -21,7 +21,7 @@
 ## Observations
 
 ### 1. Week-over-week trajectory is invisible
-Several founders said independently that the reports show totals, not trajectory, so a reviewer has to do the math to see what happened this week. The group agreed to add week-by-week columns. The data already exists in each week's report; it just isn't presented side by side.
+Several participants said independently that the reports show totals, not trajectory, so a reviewer has to do the math to see what happened this week. The group agreed to add week-by-week columns. The data already exists in each week's report; it just isn't presented side by side.
 
 ### 2. Comments are reflection prompts, not tasks
 A founder said the questions in comments are there to help you think, so there's no need to spend time answering them. Another founder decided on the spot to stop replying to comments. The group defined peer review as reflection, not as accountability for answering.
